@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *
+ * Authors: Steve & Anne
  * Return: Always 0
  */
 int main(void)
