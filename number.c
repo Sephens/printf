@@ -6,7 +6,7 @@
  * @base: base
  * @flags: argument flags
  * @params: paramater struct
- * Authors: steve & Anne
+ * Author: steve & Anne
  * Return: string
  */
 char *convert(long int num, int base, int flags, params_t *params)
